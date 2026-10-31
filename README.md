@@ -1,5 +1,7 @@
 # web-design-deslop
 
+[![skills.sh](https://skills.sh/b/krutikkkkkkkkk/web-design-deslop)](https://skills.sh/krutikkkkkkkkk/web-design-deslop)
+
 A Claude skill that removes the "AI-generated" look from websites and web copy.
 
 AI slop in web design is not one bad choice. It is the average of a million landing pages: the purple-to-pink gradient, the centered hero with a badge pill and two buttons, three equal feature cards with tinted icon squares, glass cards on near-black, copy that says "Unlock seamless workflows". Each piece is fine alone. Together they make a page that could belong to any company, which means it belongs to none.
