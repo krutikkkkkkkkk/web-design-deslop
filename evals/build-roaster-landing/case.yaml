@@ -1,0 +1,9 @@
+schema_version: "1.1"
+name: build-roaster-landing
+expected_outcome: |
+  A page.tsx that builds the page from the roaster's own material (origins, Tuesday roasts,
+  the cafe, Saturday cuppings) with a distinct layout idea, no purple/pink gradients, no
+  gradient text or blur orbs, no badge pill, no equal three-card feature grid with icon
+  squares, no emoji icons, no fake stats/testimonials/logos, a single specific CTA, light or
+  brand-derived palette rather than near-black, varied section rhythm, specific copy. The
+  reply explains the layout idea in a line or two.

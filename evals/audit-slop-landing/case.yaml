@@ -1,0 +1,11 @@
+schema_version: "1.1"
+name: audit-slop-landing
+expected_outcome: |
+  review.md gives an honest verdict, lists the concrete AI-design tells found in page.tsx
+  (gradient blobs, gradient text, badge pill, two-button hero, equal feature cards with icon
+  squares, fake logos, round-number stats, generic testimonials, "Most popular" pricing,
+  gradient CTA band, dark-by-default, Inter-style uniform headings, generated copy) with
+  where each is and a specific fix for this client, ranks the three highest-impact changes,
+  and names what to keep. No full rewrite of the page.
+context:
+  scaffold_script: place-files.sh

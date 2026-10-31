@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: rewrite-saas-copy
+expected_outcome: |
+  copy.md contains rewritten hero, features and closing copy with no slop vocabulary
+  (unlock, seamless, empower, effortless, powerful, supercharge, transform, journey),
+  no emoji, no "Get started"/"Learn more" CTAs, specific product facts (GST, UPI links,
+  reminders) stated concretely, a single named CTA, uneven feature lengths, and honest
+  placeholders rather than invented numbers.
